@@ -3,6 +3,8 @@ I am an undergraduate in the Department of Computer Science & Engineering at the
 
 Here's how to reach me:  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshnadar&label=Profile%20views&color=129e00&style=plastic" alt="lizadahiya" /> </p>
+
 <!-- [<img align="left" alt="trunc8.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="liza23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="liza23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
